@@ -1,13 +1,11 @@
 # su-cracker
-A script that performs a dictionary attack locally using su, to elevate privileges to root or other users.
-
-# Program: 
 This script has been developped under python3, it aims to launch a dictionnary attack on 'su' in order to elevate privileges either horizontally using existing acounts, or vertically using the 'root' account as a target.
+
 # Tests
 Tested on: Kali GNU/Linux 2020.4 
 
 # Usage:
-usage: python3 su-cracker.py [-h] username wordlist [threads]
+`python3 su-cracker.py [-h] username wordlist [threads]
 
 positional arguments: 
  username    Username to switch to, must be entered
@@ -15,7 +13,7 @@ positional arguments:
  threads     Number of threads to launch, recommended between [100-200], 100 by default
 
 optional arguments:
- -h, --help  show this help message and exit  
+ -h, --help  show this help message and exit`
 
 # Developper:
 Developped by: Elaffifi Omar Badis
