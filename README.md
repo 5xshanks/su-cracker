@@ -1,8 +1,8 @@
 # su-cracker
 This script has been developped under python3, it aims to launch a dictionnary attack on 'su' in order to elevate privileges either horizontally using existing acounts, or vertically using the 'root' account as a target.
 
-# Tests
-Tested on: Kali GNU/Linux 2020.4 
+# Tested on:
+Kali GNU/Linux 2020.4 
 
 # Usage:
 ```
