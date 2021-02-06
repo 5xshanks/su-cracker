@@ -22,7 +22,7 @@ optional arguments:
 ![](Test_root.PNG)
 
 ## with another user:
-![](Test_user.PNG)
+![](Test_testuser.PNG)
 
 # Developper:
 Developped by: Elaffifi Omar Badis
