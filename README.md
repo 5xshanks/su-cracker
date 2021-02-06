@@ -18,8 +18,11 @@ optional arguments:
 ```
 
 # POC
-![plot](./Test_root.png)
+## with root:
+![](Test_root.PNG)
 
+## with another user:
+![](Test_user.PNG)
 
 # Developper:
 Developped by: Elaffifi Omar Badis
