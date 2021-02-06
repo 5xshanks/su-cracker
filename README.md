@@ -5,7 +5,7 @@ This script has been developped under python3, it aims to launch a dictionnary a
 Tested on: Kali GNU/Linux 2020.4 
 
 # Usage:
-`python3 su-cracker.py [-h] username wordlist [threads]
+`python3 su-cracker.py [-h] username wordlist [threads]`
 
 positional arguments: 
  username    Username to switch to, must be entered
@@ -13,7 +13,7 @@ positional arguments:
  threads     Number of threads to launch, recommended between [100-200], 100 by default
 
 optional arguments:
- -h, --help  show this help message and exit`
+ -h, --help  show this help message and exit
 
 # Developper:
 Developped by: Elaffifi Omar Badis
