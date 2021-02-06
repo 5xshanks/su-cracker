@@ -18,7 +18,7 @@ optional arguments:
 ```
 
 # POC
-![alt text](Test_root.png)
+![plot](./Test_root.png)
 
 
 # Developper:
