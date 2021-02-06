@@ -18,8 +18,7 @@ optional arguments:
 ```
 
 # POC
-![alt text](https://github.com/5xshanks/su-cracker/blob/master/Test_root.png?raw=true)
-![alt text](https://github.com/5xshanks/su-cracker/blob/master/Test_testuser.png?raw=true)
+![alt text](Test_root.png)
 
 
 # Developper:
