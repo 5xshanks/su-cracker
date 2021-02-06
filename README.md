@@ -25,5 +25,5 @@ optional arguments:
 ![](Test_testuser.PNG)
 
 # Developper:
-Developped by: Elaffifi Omar Badis
-email        : elaffifibadis@gmail.com        
+Elaffifi Omar Badis / elaffifibadis@gmail.com
+
